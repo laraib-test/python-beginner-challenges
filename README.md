@@ -10,6 +10,6 @@
 | 2 | Age Calculator | `challenge/02-age-calculator` | ⏳ Completed |
 | 3 | Temperature Converter | `challenge/03-temperature-converter` | ⏳ Completed |
 | 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Completed |
-| 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
+| 5 | Profile Card | `challenge/05-profile-card` | ⏳ Completed |
 
 ## Outputs
