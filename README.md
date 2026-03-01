@@ -15,3 +15,15 @@
 ## Outputs
  Personalised Greeting
  ![alt text](image.png)
+ 
+ Age Calculator
+![alt text](image.png)
+
+Temperature Converter 
+![alt text](image-1.png)
+
+Shopping Receipt
+![alt text](image-2.png)
+
+Profile Card
+![alt text](image-3.png)
